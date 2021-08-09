@@ -1,0 +1,15 @@
+{
+  "name": "@monorepo/shared",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "myMediaBrains <my.media.brains@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@types/react": "^17.0.16",
+    "dotenv": "^10.0.0",
+    "next-images": "^1.8.1",
+    "typescript": "^4.3.5"
+  }
+}
